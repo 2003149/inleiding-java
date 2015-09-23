@@ -23,7 +23,7 @@ setSize(1200,550);
 
 //bijv. tekst x is van links naar recht y is van boven naar beneden
 public void paint (Graphics g) {
-	 vv         mn 
+
 
 
 
